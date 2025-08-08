@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: root
-    password: Fayaz78677@
+    password: Tommy@123
     url: jdbc:mysql://localhost:3306/flm
   jpa:
     show-sql: true
