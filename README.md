@@ -3,6 +3,8 @@
 A **Java & Spring Boot-based** application for managing hospital operations such as patients, doctors, staff, appointments, rooms, and billing.  
 The system follows a **layered architecture** with REST APIs, DTO mapping, logging, and authentication using **JWT**.
 
+![hospital](https://github.com/user-attachments/assets/52d861b8-7ae7-4f51-a4d2-04496362d389)
+
 ---
 
 ## 📜 Table of Contents
